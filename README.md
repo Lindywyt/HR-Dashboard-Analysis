@@ -33,6 +33,8 @@ Using Power BI's power query editor, a date table was created, and the dataset w
 
 On the Power BI model view, a relationship was built between the HR dataset and the date table.
 
+![](date_table.PNG)
+
 ![](data_model.PNG)
 ---
 
