@@ -88,4 +88,9 @@ On the Power BI model view, a relationship was built between the HR dataset and 
   
 - Leverage the high performance of employees with 7 and 10 years of service. Retention strategies or career development opportunities can be developed to train and further enhance the performance of these employees.
   
-- Learn from the Admin Office desk team, which had the highest performance scores; this desk provides clear deliverables to improve overall performance rates. 
+- Learn from the Admin Office desk team, which had the highest performance scores; this desk provides clear deliverables to improve overall performance rates.
+
+![](Thank you.PNG)
+---
+
+I’m open to collaborating on projects related to data analysis, and data visualization. You can reach me via email at [lindyogundokun1@gmail.com] or connect with me on LinkedIn at [https://www.linkedin.com/in/lindyogundokun] Feel free to drop me a message anytime; I’m excited to connect and collaborate with fellow data enthusiasts! Let’s work together to solve interesting data challenges!
